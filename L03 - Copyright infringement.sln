@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L03 - Copyright infringement", "L03 - Copyright infringement\L03 - Copyright infringement.vcxproj", "{8DF301FE-7A33-44D5-B999-5ECCEFA16436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DF301FE-7A33-44D5-B999-5ECCEFA16436}.Debug|x64.ActiveCfg = Debug|x64
+		{8DF301FE-7A33-44D5-B999-5ECCEFA16436}.Debug|x64.Build.0 = Debug|x64
+		{8DF301FE-7A33-44D5-B999-5ECCEFA16436}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DF301FE-7A33-44D5-B999-5ECCEFA16436}.Debug|x86.Build.0 = Debug|Win32
+		{8DF301FE-7A33-44D5-B999-5ECCEFA16436}.Release|x64.ActiveCfg = Release|x64
+		{8DF301FE-7A33-44D5-B999-5ECCEFA16436}.Release|x64.Build.0 = Release|x64
+		{8DF301FE-7A33-44D5-B999-5ECCEFA16436}.Release|x86.ActiveCfg = Release|Win32
+		{8DF301FE-7A33-44D5-B999-5ECCEFA16436}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05D4745A-6685-4C32-AF8E-9971CB5BE513}
+	EndGlobalSection
+EndGlobal
